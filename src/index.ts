@@ -1,3 +1,1 @@
-#!/usr/bin/env node
-
-console.log('hello')
+export * from './axios.js'
